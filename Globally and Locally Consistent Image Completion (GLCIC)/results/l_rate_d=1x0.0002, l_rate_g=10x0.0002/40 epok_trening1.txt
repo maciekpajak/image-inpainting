@@ -1,0 +1,91 @@
+Epoch 1/100
+391/391 [==============================] - 68s 174ms/step - g_loss: 0.0379 - d_loss: 0.4925 - psnr: 27.2750 - ssim: 0.6926 - val_g_loss: 0.0227 - val_d_loss: 0.9728 - val_psnr: 24.2885 - val_ssim: 0.6392
+Epoch 2/100
+391/391 [==============================] - 69s 177ms/step - g_loss: 0.0375 - d_loss: 0.5747 - psnr: 27.2327 - ssim: 0.6905 - val_g_loss: 0.0116 - val_d_loss: 1.2996 - val_psnr: 26.6040 - val_ssim: 0.6817
+Epoch 3/100
+391/391 [==============================] - 70s 180ms/step - g_loss: 0.0353 - d_loss: 0.4478 - psnr: 27.9501 - ssim: 0.7211 - val_g_loss: 0.0101 - val_d_loss: 1.4694 - val_psnr: 27.9847 - val_ssim: 0.7195
+Epoch 4/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0356 - d_loss: 0.6407 - psnr: 27.5354 - ssim: 0.7084 - val_g_loss: 0.0092 - val_d_loss: 1.0729 - val_psnr: 27.1199 - val_ssim: 0.6997
+Epoch 5/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0352 - d_loss: 0.6693 - psnr: 27.5385 - ssim: 0.7060 - val_g_loss: 0.0158 - val_d_loss: 1.6342 - val_psnr: 24.7552 - val_ssim: 0.6382
+Epoch 6/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0349 - d_loss: 0.7098 - psnr: 27.5850 - ssim: 0.7097 - val_g_loss: 0.0114 - val_d_loss: 1.2839 - val_psnr: 27.1353 - val_ssim: 0.7045
+Epoch 7/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0342 - d_loss: 0.7271 - psnr: 27.6122 - ssim: 0.7088 - val_g_loss: 0.0083 - val_d_loss: 1.3105 - val_psnr: 27.9084 - val_ssim: 0.7238
+Epoch 8/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0341 - d_loss: 0.7814 - psnr: 27.6169 - ssim: 0.7121 - val_g_loss: 0.0139 - val_d_loss: 1.4508 - val_psnr: 25.8150 - val_ssim: 0.6748
+Epoch 9/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0338 - d_loss: 0.7806 - psnr: 27.6955 - ssim: 0.7166 - val_g_loss: 0.0145 - val_d_loss: 1.3858 - val_psnr: 27.4998 - val_ssim: 0.7060
+Epoch 10/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0330 - d_loss: 0.7304 - psnr: 27.8084 - ssim: 0.7196 - val_g_loss: 0.0108 - val_d_loss: 1.1781 - val_psnr: 27.8491 - val_ssim: 0.7192
+Epoch 11/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0334 - d_loss: 0.8283 - psnr: 27.7347 - ssim: 0.7152 - val_g_loss: 0.0137 - val_d_loss: 1.6518 - val_psnr: 26.6618 - val_ssim: 0.6899
+Epoch 12/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0322 - d_loss: 0.7502 - psnr: 28.0339 - ssim: 0.7312 - val_g_loss: 0.0128 - val_d_loss: 1.6978 - val_psnr: 26.8587 - val_ssim: 0.7005
+Epoch 13/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0326 - d_loss: 0.8409 - psnr: 27.8083 - ssim: 0.7185 - val_g_loss: 0.0100 - val_d_loss: 1.7450 - val_psnr: 27.8761 - val_ssim: 0.7237
+Epoch 14/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0324 - d_loss: 0.8269 - psnr: 27.9232 - ssim: 0.7255 - val_g_loss: 0.0124 - val_d_loss: 1.1102 - val_psnr: 26.8618 - val_ssim: 0.6963
+Epoch 15/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0324 - d_loss: 0.8523 - psnr: 27.8961 - ssim: 0.7254 - val_g_loss: 0.0158 - val_d_loss: 1.5188 - val_psnr: 25.8179 - val_ssim: 0.6856
+Epoch 16/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0320 - d_loss: 0.8638 - psnr: 27.9166 - ssim: 0.7276 - val_g_loss: 0.0114 - val_d_loss: 1.2014 - val_psnr: 27.5004 - val_ssim: 0.7096
+Epoch 17/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0319 - d_loss: 0.8685 - psnr: 27.9305 - ssim: 0.7265 - val_g_loss: 0.0127 - val_d_loss: 1.0801 - val_psnr: 27.2185 - val_ssim: 0.7043
+Epoch 18/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0318 - d_loss: 0.8781 - psnr: 27.9312 - ssim: 0.7277 - val_g_loss: 0.0182 - val_d_loss: 1.4230 - val_psnr: 25.0427 - val_ssim: 0.6570
+Epoch 19/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0313 - d_loss: 0.8895 - psnr: 28.0407 - ssim: 0.7331 - val_g_loss: 0.0168 - val_d_loss: 1.5356 - val_psnr: 26.2061 - val_ssim: 0.7041
+Epoch 20/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0312 - d_loss: 0.8718 - psnr: 28.0568 - ssim: 0.7345 - val_g_loss: 0.0109 - val_d_loss: 1.3024 - val_psnr: 26.4988 - val_ssim: 0.7013
+Epoch 21/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0309 - d_loss: 0.8804 - psnr: 28.1310 - ssim: 0.7374 - val_g_loss: 0.0137 - val_d_loss: 1.6740 - val_psnr: 27.1975 - val_ssim: 0.7131
+Epoch 22/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0308 - d_loss: 0.8898 - psnr: 28.1078 - ssim: 0.7363 - val_g_loss: 0.0117 - val_d_loss: 1.4600 - val_psnr: 27.1704 - val_ssim: 0.7090
+Epoch 23/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0307 - d_loss: 0.8976 - psnr: 28.1145 - ssim: 0.7366 - val_g_loss: 0.0106 - val_d_loss: 1.4422 - val_psnr: 27.4512 - val_ssim: 0.7188
+Epoch 24/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0307 - d_loss: 0.9118 - psnr: 28.1155 - ssim: 0.7396 - val_g_loss: 0.0116 - val_d_loss: 1.2388 - val_psnr: 27.9734 - val_ssim: 0.7294
+Epoch 25/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0304 - d_loss: 0.9161 - psnr: 28.1360 - ssim: 0.7392 - val_g_loss: 0.0130 - val_d_loss: 1.3236 - val_psnr: 27.7608 - val_ssim: 0.7239
+Epoch 26/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0301 - d_loss: 0.8898 - psnr: 28.2261 - ssim: 0.7432 - val_g_loss: 0.0150 - val_d_loss: 1.2319 - val_psnr: 26.9547 - val_ssim: 0.7097
+Epoch 27/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0301 - d_loss: 0.9235 - psnr: 28.2128 - ssim: 0.7406 - val_g_loss: 0.0174 - val_d_loss: 1.6943 - val_psnr: 26.3241 - val_ssim: 0.7054
+Epoch 28/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0300 - d_loss: 0.9074 - psnr: 28.2008 - ssim: 0.7428 - val_g_loss: 0.0112 - val_d_loss: 1.3601 - val_psnr: 27.7037 - val_ssim: 0.7255
+Epoch 29/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0298 - d_loss: 0.9439 - psnr: 28.2113 - ssim: 0.7416 - val_g_loss: 0.0118 - val_d_loss: 1.2926 - val_psnr: 27.6539 - val_ssim: 0.7257
+Epoch 30/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0295 - d_loss: 0.9076 - psnr: 28.2847 - ssim: 0.7463 - val_g_loss: 0.0108 - val_d_loss: 1.1837 - val_psnr: 27.4037 - val_ssim: 0.7172
+Epoch 31/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0296 - d_loss: 0.9394 - psnr: 28.2580 - ssim: 0.7426 - val_g_loss: 0.0112 - val_d_loss: 1.8052 - val_psnr: 27.8428 - val_ssim: 0.7279
+Epoch 32/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0292 - d_loss: 0.9073 - psnr: 28.3153 - ssim: 0.7453 - val_g_loss: 0.0122 - val_d_loss: 1.1766 - val_psnr: 27.1197 - val_ssim: 0.7176
+Epoch 33/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0291 - d_loss: 0.9363 - psnr: 28.3349 - ssim: 0.7456 - val_g_loss: 0.0082 - val_d_loss: 1.2325 - val_psnr: 27.2530 - val_ssim: 0.7160
+Epoch 34/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0291 - d_loss: 0.9270 - psnr: 28.3396 - ssim: 0.7466 - val_g_loss: 0.0101 - val_d_loss: 1.8027 - val_psnr: 27.6598 - val_ssim: 0.7325
+Epoch 35/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0289 - d_loss: 0.9242 - psnr: 28.3759 - ssim: 0.7526 - val_g_loss: 0.0142 - val_d_loss: 1.3154 - val_psnr: 27.6032 - val_ssim: 0.7261
+Epoch 36/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0287 - d_loss: 0.9536 - psnr: 28.3638 - ssim: 0.7478 - val_g_loss: 0.0088 - val_d_loss: 1.4346 - val_psnr: 27.8128 - val_ssim: 0.7308
+Epoch 37/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0286 - d_loss: 0.9189 - psnr: 28.4067 - ssim: 0.7498 - val_g_loss: 0.0130 - val_d_loss: 1.4683 - val_psnr: 27.7340 - val_ssim: 0.7305
+Epoch 38/100
+391/391 [==============================] - 71s 181ms/step - g_loss: 0.0283 - d_loss: 0.9488 - psnr: 28.4635 - ssim: 0.7516 - val_g_loss: 0.0111 - val_d_loss: 1.5893 - val_psnr: 27.5202 - val_ssim: 0.7237
+Epoch 39/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0282 - d_loss: 0.9397 - psnr: 28.4959 - ssim: 0.7535 - val_g_loss: 0.0131 - val_d_loss: 2.4910 - val_psnr: 27.4761 - val_ssim: 0.7254
+Epoch 40/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0281 - d_loss: 0.9634 - psnr: 28.4618 - ssim: 0.7524 - val_g_loss: 0.0104 - val_d_loss: 1.5067 - val_psnr: 28.2885 - val_ssim: 0.7392
+Epoch 41/100
+391/391 [==============================] - 70s 179ms/step - g_loss: 0.0278 - d_loss: 0.9409 - psnr: 28.5233 - ssim: 0.7534 - val_g_loss: 0.0127 - val_d_loss: 1.3831 - val_psnr: 27.8691 - val_ssim: 0.7366
+Epoch 42/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0277 - d_loss: 0.9518 - psnr: 28.5076 - ssim: 0.7537 - val_g_loss: 0.0088 - val_d_loss: 1.5796 - val_psnr: 27.8354 - val_ssim: 0.7330
+Epoch 43/100
+391/391 [==============================] - 70s 178ms/step - g_loss: 0.0274 - d_loss: 0.9655 - psnr: 28.5484 - ssim: 0.7575 - val_g_loss: 0.0093 - val_d_loss: 1.6803 - val_psnr: 27.8868 - val_ssim: 0.7327
+Epoch 44/100
+ 46/391 [==>...........................] - ETA: 58s - g_loss: 0.0272 - d_loss: 0.9322 - psnr: 28.5738 - ssim: 0.7593
+
+
+Dane z obrazkami niestety usunięte, trening został przerwany
